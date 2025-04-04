@@ -1,0 +1,9 @@
+[
+    {
+      "name": "My Portfolio",
+      "description": "Personal portfolio website with resume and live API integrations",
+      "tech": ["Angular", "Express", "Firebase", "Node.js", "MongoDB", "Material UI", "Tailwind CSS"],
+      "link": "https://github.com/JoseRojas-Dev/PortfolioBE"
+    }
+  ]
+  
